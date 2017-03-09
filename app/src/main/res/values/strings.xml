@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CruisesView</string>
+    <integer name="NumberCruise">5</integer>
+</resources>
